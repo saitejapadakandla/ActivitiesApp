@@ -1,0 +1,12 @@
+/Users/teja/Desktop/SideProjects/Reactivities/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/teja/Desktop/SideProjects/Reactivities/Domain/bin/Debug/net7.0/Domain.dll
+/Users/teja/Desktop/SideProjects/Reactivities/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/teja/Desktop/SideProjects/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/teja/Desktop/SideProjects/Reactivities/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/teja/Desktop/SideProjects/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/teja/Desktop/SideProjects/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/teja/Desktop/SideProjects/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/teja/Desktop/SideProjects/Reactivities/Domain/obj/Debug/net7.0/Domain.dll
+/Users/teja/Desktop/SideProjects/Reactivities/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/teja/Desktop/SideProjects/Reactivities/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/teja/Desktop/SideProjects/Reactivities/Domain/obj/Debug/net7.0/ref/Domain.dll
